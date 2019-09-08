@@ -38,15 +38,15 @@ struct RecipeDetails {
 //let breakfastIngredientsArray: Array = ["eggs", "bacon", "cheese", "potatoes", "tortillas", "canned beans", "sausage"]
 
 let recipe1 = RecipeDetails(title: "Lumberjack Breakfast",
-                            image: #imageLiteral(resourceName: "Lumberjack Breakfast"),
+                            image: #imageLiteral(resourceName: "Lumberjack Breakfast-1"),
                             ingredients: "eggs, cheese, tortillas",
-                            directions: "Mix together and cook over open fire")
+                            directions: "Mix together and cook over open fire.")
 let recipe2 = RecipeDetails(title: "Bean Hash",
                             image: #imageLiteral(resourceName: "beanHashImage"),
                             ingredients: "canned beans, eggs, potatoes",
-                            directions: "Fry over fire")
+                            directions: "Fry over fire.")
 let recipe3 = RecipeDetails(title: "Bacon Skewers",
-                            image: #imageLiteral(resourceName: "baconSkewers"),
+                            image: #imageLiteral(resourceName: "bacon_skewers"),
                             ingredients: "Bacon",
                             directions: "Wrap uncooked bacon around skewers. Grill over open fire.")
 

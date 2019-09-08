@@ -25,7 +25,7 @@ class RecipeDetailsViewController: UIViewController {
     
     func showRecipeDetails() {
         foodImageView.image = selectedRecipe.image
-        ingredientsLabel.text = selectedRecipe.ingredients
-        directionsLabel.text = selectedRecipe.directions
+        ingredientsLabel.text = "Ingredients: " + selectedRecipe.ingredients
+        directionsLabel.text = "Directions: " + selectedRecipe.directions
     }
 }

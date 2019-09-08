@@ -2,15 +2,17 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "baconSkewers.jpg",
+      "filename" : "bacon_skewers.jpg",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
+      "filename" : "bacon_skewers@2x.jpg",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
+      "filename" : "bacon_skewers@3x.jpg",
       "scale" : "3x"
     }
   ],

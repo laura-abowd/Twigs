@@ -72,10 +72,10 @@
 		E424811D225ADCBC00797124 /* TWIG2 */ = {
 			isa = PBXGroup;
 			children = (
+				E4248125225ADCBF00797124 /* Assets.xcassets */,
 				E424811E225ADCBC00797124 /* AppDelegate.swift */,
 				E4248122225ADCBC00797124 /* Main.storyboard */,
 				E4248136225C07D100797124 /* Controllers */,
-				E4248125225ADCBF00797124 /* Assets.xcassets */,
 				E4248127225ADCBF00797124 /* LaunchScreen.storyboard */,
 				E424812A225ADCBF00797124 /* Info.plist */,
 			);
